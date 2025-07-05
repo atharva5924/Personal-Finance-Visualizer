@@ -61,7 +61,7 @@ export default function HomePage() {
 
   return (
     <main className="max-w-xl mx-auto p-6">
-      <h1 className="text-2xl font-bold mb-4">Personal Finance Tracker</h1>
+      <h1 className="text-2xl font-bold mb-4">WealthView – Personal Finance Tracker</h1>
       <TransactionForm onAdd={handleAdd} />
       <BudgetForm onAdd={(budget) => setBudgets((prev) => [budget, ...prev])} />
       <DashboardSummary transactions={transactions} />
