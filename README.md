@@ -237,6 +237,7 @@ npm run dev
 # App will be running at:
 http://localhost:3000
 
+```
 ---
 
 ### ✅ Submission Notes
@@ -254,7 +255,6 @@ CSE Undergrad @ IIIT Nagpur
 📧 atharvanile2005@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/atharva-nile-a50120294) • [GitHub](https://github.com/atharva5924)
 
-```
 ---
 
 Let me know once you've added screenshots or deployed it — I can update this file with image previews and final Vercel link if you like!
