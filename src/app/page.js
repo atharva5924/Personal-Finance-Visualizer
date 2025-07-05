@@ -76,7 +76,7 @@ export default function HomePage() {
       <CategoryPieChart transactions={transactions} />
 
        <p className="text-center text-sm text-gray-500 mt-4 py-3">
-    ⚠️ This app is pre-filled with sample data for demonstration. Feel free to add, edit, or delete transactions and budgets.
+    ⚠️ This website is pre-filled with sample data for demonstration. Feel free to add, edit, or delete transactions and budgets.
   </p>
     </main>
   );
