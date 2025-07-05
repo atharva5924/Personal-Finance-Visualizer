@@ -1,4 +1,4 @@
-# 📊 Personal Finance Visualizer
+# 📊 Personal Finance Visualizer (WealthView)
 
 A simple, beautiful, and responsive web application to **track personal finances**, visualize monthly spending, and manage budgets — built using **Next.js**, **React**, **MongoDB**, **Recharts**, and **shadcn/ui**.
 
