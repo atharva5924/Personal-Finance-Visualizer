@@ -8,7 +8,7 @@ A simple, beautiful, and responsive web application to **track personal finances
 
 ### 🚀 Live Demo
 
-🔗 [Deployed Live on Vercel](https://your-deployment-url.vercel.app)  
+🔗 [Deployed Live on Vercel](https://wealth-view.vercel.app/)  
 📂 [GitHub Repository](https://github.com/atharva5924/Personal-Finance-Visualizer)
 
 ---
